@@ -14,7 +14,7 @@ options:
 
 settings:
   base:
-    APP_BUNDLE_ID: com.yourname.screentime
+    APP_BUNDLE_ID: com.zachkni.screentime
     DEVELOPMENT_TEAM: ""
     CODE_SIGN_STYLE: Automatic
     SWIFT_VERSION: "5.0"

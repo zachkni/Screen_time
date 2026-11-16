@@ -5,7 +5,7 @@ import Foundation
 enum AppGroup {
     static let id: String =
         Bundle.main.object(forInfoDictionaryKey: "AppGroupID") as? String
-        ?? "group.com.yourname.screentime"
+        ?? "group.com.zachkni.screentime"
 
     static let defaults: UserDefaults = UserDefaults(suiteName: id) ?? .standard
 }
